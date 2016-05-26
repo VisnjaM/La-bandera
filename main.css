@@ -1,0 +1,8 @@
+.container h2  {
+	display: inline-block;
+	background-color: yellow;
+	padding: 5px;
+}
+#rojo {
+	background-color: red;
+}
